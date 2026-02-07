@@ -1,5 +1,5 @@
 #  FullStack Intern Coding Challenge – Roxiler Systems  
-Candidate: Nawazish Majid Bidiwale  
+Candidate: Aarya Manohar Hulwan  
 
 # RateMyStore
 
